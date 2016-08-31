@@ -1,0 +1,140 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	font            : bold 14pt 'Segoe UI';
+	color           : #ffffff;
+	}
+.cc02               { /* Common */
+	clip            : rect(0.00pt,89.25pt,0.75pt,0.00pt);
+	}
+.cc03               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+span#e15            { /* toddmacintyre001003.jpg */
+	background      : transparent url(toddmacintyre001003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   2.25pt;
+	top             :   3.00pt;
+	width           : 743.25pt;
+	height          : 250.50pt;
+	}
+img#e14             { /* lineblak.gif */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 500.25pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+img#e13             { /* lineblak.gif */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 450.75pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+img#e12             { /* lineblak.gif */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 400.50pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+img#e11             { /* lineblak.gif */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 351.00pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+div#e10             { /* Resume */
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 324.75pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+div#e9              { /* Multimedia */
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 374.25pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+div#e8              { /* Store */
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 423.75pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+div#e7              { /* News */
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 473.25pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+span#e6             { /* lineblak.gif */
+	background      : transparent url(lineblak.gif) no-repeat top left;
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 299.25pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+div#e5              { /* Home */
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 275.25pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+img#e4              { /* lineblak.gif */
+	position        : absolute;
+	left            :  45.75pt;
+	top             : 550.50pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+div#e3              { /* Contact */
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 523.50pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+span#e2             { /* toddmacintyre001002.gif */
+	background      : transparent url(toddmacintyre001002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 155.25pt;
+	top             : 287.25pt;
+	width           :   3.00pt;
+	height          : 276.00pt;
+	}
+div#e1              { /* Todd MacIntyre has perfo... */
+	background      : transparent url(toddmacintyre001001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 174.00pt;
+	top             : 294.75pt;
+	width           : 556.50pt;
+	height          : 264.75pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #000000;
+	background-image: url(toddmacintyre001b01.jpg);
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

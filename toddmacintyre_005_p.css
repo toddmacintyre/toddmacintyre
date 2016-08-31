@@ -1,0 +1,156 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc13               { /* Common */
+	font            : bold 14pt 'Segoe UI';
+	color           : #ffffff;
+	}
+.cc14               { /* Common */
+	clip            : rect(0.00pt,89.25pt,0.75pt,0.00pt);
+	}
+.cc15               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+img#e17             { /* lineblak.gif */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 500.25pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+img#e16             { /* lineblak.gif */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 450.75pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+img#e15             { /* lineblak.gif */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 400.50pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+img#e14             { /* lineblak.gif */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 351.00pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+div#e13             { /* Resume */
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 324.75pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+div#e12             { /* Multimedia */
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 374.25pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+div#e11             { /* Store */
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 423.75pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+div#e10             { /* News */
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 473.25pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+span#e9             { /* lineblak.gif */
+	background      : transparent url(lineblak.gif) no-repeat top left;
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 299.25pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+div#e8              { /* Home */
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 275.25pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+img#e7              { /* lineblak.gif */
+	position        : absolute;
+	left            :  45.75pt;
+	top             : 550.50pt;
+	width           :  89.25pt;
+	height          :   0.75pt;
+	}
+div#e6              { /* Contact */
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 523.50pt;
+	width           : 103.50pt;
+	height          :  21.75pt;
+	}
+span#e5             { /* toddmacintyre005005.gif */
+	background      : transparent url(toddmacintyre005005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 155.25pt;
+	top             : 287.25pt;
+	width           :   3.00pt;
+	height          : 276.00pt;
+	}
+span#e4             { /* toddmacintyre005004.jpg */
+	background      : transparent url(toddmacintyre005004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   3.00pt;
+	top             :   3.75pt;
+	width           : 742.50pt;
+	height          : 249.00pt;
+	}
+div#e3              { /* 4/13 - 11/13 - Lead Voca... */
+	background      : transparent url(toddmacintyre005003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 223.50pt;
+	top             : 290.25pt;
+	width           : 225.75pt;
+	height          : 285.75pt;
+	}
+span#e2             { /* toddmacintyre005002.gif */
+	background      : transparent url(toddmacintyre005002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 591.75pt;
+	top             : 354.00pt;
+	width           : 146.25pt;
+	height          : 213.75pt;
+	}
+span#e1             { /* toddmacintyre005001.jpg */
+	background      : transparent url(toddmacintyre005001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 596.25pt;
+	top             : 358.50pt;
+	width           : 136.50pt;
+	height          : 204.75pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #000000;
+	background-image: url(toddmacintyre005b01.jpg);
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/
